@@ -1,2 +1,0 @@
-# winpeasobfusaction
-obfuscated winpeas
